@@ -1,2 +1,1 @@
-# AUTO-STATUS-SEEN--WHATSAPP-BOT
-AUTO STATUS SEEN WHATSAPP BOT BY ISURU CHAMIKA (IsuruChamika007)
+**IsuruBot-MD** is designed to automatically seen whatsapp status and download them.
